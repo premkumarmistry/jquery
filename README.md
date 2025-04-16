@@ -1,5 +1,5 @@
 
-# jQuery Project: Dynamic Web Development
+# jQuery 
 
 This project demonstrates how to use **jQuery** for dynamic web development. It covers the following key concepts:
 
